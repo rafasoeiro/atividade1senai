@@ -5,3 +5,4 @@ foi adcionado um novo arquivo versoes.txt
 git add .
 git commit -m "alterações feitas por membro da equipe"
 git push
+alteracoes nos arquivos .txt com as respectivas datas pelo membro pedrohcust
